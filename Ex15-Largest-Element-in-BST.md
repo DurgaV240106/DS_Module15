@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e2a2e89-cf38-456f-a1dd-2a1cc6561b41)# Ex15 Largest Element in BST
+
 ## DATE:04-05-2025
 ## AIM:
 To Write a c program to find the largest value in a Binary Search Tree.
